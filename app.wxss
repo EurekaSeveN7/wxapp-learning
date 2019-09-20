@@ -1,0 +1,15 @@
+page,view,image,swpier,swiper-item,navigator,video{
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css');
+  src:
+  url('https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2') format('woff2'),
+  url('https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.woff') format('woff'),
+  url('https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.svg') format('svg'),
+  url('https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.eot') format('eot'),
+  url('https://cdn.staticfile.org/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  }

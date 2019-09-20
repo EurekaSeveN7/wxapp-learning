@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "哔哩哔哩动画",
+  "usingComponents":{
+    "Header":"/components/Header/Header"
+  }
+}

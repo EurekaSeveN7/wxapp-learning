@@ -1,0 +1,14 @@
+<!--components/Header/Header.wxml-->
+<view class="header">
+<navigator class="logo">
+    <image style="width:140rpx;height:60rpx;" class="logo_img" src="/pages/src/icons/logo2.png"> </image>
+</navigator>
+<view class="search_icon">
+    <image  style="width:44rpx;height:44rpx;" src="../../pages/src/icons/search.png"></image>
+</view>
+<view class="user_icon">
+    <image style="width:54rpx;height:54rpx;" src="../../pages/src/icons/user.PNG"></image>
+</view>
+    <view class="down_app">下载 APP</view>
+
+</view>
